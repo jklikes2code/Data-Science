@@ -1,1 +1,1 @@
-Files for SVM and KNN
+Files for KNN
